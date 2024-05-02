@@ -1,5 +1,5 @@
 {
-  "name": "@fekide/graphql-codegen-apollo-next-ssr",
+  "name": "@feki.de/graphql-codegen-apollo-next-ssr",
   "version": "1.8.0",
   "description": "GraphQL Code Generator plugin for generating a functions to read and write from the apollo cache",
   "license": "MIT",
