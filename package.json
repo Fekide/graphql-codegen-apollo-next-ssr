@@ -1,6 +1,6 @@
 {
   "name": "@fekide/graphql-codegen-apollo-next-ssr",
-  "version": "1.7.4",
+  "version": "1.8.0",
   "description": "GraphQL Code Generator plugin for generating a functions to read and write from the apollo cache",
   "license": "MIT",
   "scripts": {
@@ -45,7 +45,9 @@
     "name": "Felix Haase",
     "email": "felix.haase@feki.de"
   },
-  "contributors": ["Fabio Benedetti"],
+  "contributors": [
+    "Fabio Benedetti"
+  ],
   "keywords": [
     "graphql",
     "codegen",
